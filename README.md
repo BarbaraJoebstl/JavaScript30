@@ -1,5 +1,5 @@
 #JavaScript30
 
-30 day vanilla js coding challenge
+30 day vanilla js coding challenge of wesbos.com
 
-grab the course at https://JavaScript30.com
+find the video tuts on https://JavaScript30.com
