@@ -1,0 +1,40 @@
+/* TAGS CSS Variables */
+:root {
+  --base: #bada55;
+  --spacing: 10px;
+  --blur: 10px;
+}
+
+img.three-img {
+  max-width: 99%;
+  max-height: 99%;
+  padding: var(--spacing);
+  background: var(--base);
+  filter: blur(var(--blur));
+}
+
+.color-header{
+  color: var(--base);
+}
+
+/* ENDO OF VARIABLES FUN*/
+
+body {
+   text-align: center;
+ }
+
+body {
+   color: grey;
+   font-weight: 100;
+   font-size: 50px;
+ }
+
+
+.controls {
+  margin-bottom: 50px;
+}
+
+
+input {
+  width:100px;
+}
