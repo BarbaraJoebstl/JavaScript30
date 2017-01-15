@@ -76,12 +76,12 @@
 	color: rgba(185, 185, 185, 0.5);
 }
 
-kbd {
+kbd .kbd {
   z-index: 100;
   margin-left: 25px;
 }
 
-p {
+p .drumkit-text {
   z-index: 100;
   margin-top: 99px;
   font-size: 1,5em;
