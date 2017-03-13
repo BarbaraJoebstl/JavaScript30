@@ -1,5 +1,5 @@
 #JavaScript30
-###30 day vanilla js coding challenge with [video tutorials](https://JavaScript30.com) by [https://www.wesbos.com](wesbos)
+###30 day vanilla js coding challenge with [video tutorials](https://JavaScript30.com) by [wesbos](https://www.wesbos.com)
 - [Day 1: Drum Kit](https://github.com/tschebee/JavaScript30/tree/master/01_DrumKit)
 - [Day 2: Clock](https://github.com/tschebee/JavaScript30/tree/master/02_Clock)
 - [Day 3: Update CSS Variables with JS](https://github.com/tschebee/JavaScript30/blob/master/03_PlayingAround)
