@@ -18,4 +18,5 @@
 - [Day 17: Map and Replace](https://github.com/tschebee/JavaScript30/blob/master/17_TheBands)
 - [Day 18: Reduce](https://github.com/tschebee/JavaScript30/tree/master/18_Reduce)
 - [Day 19: Video](https://github.com/tschebee/JavaScript30/blob/master/19_UnrealWebcamFun)
+- [Day 20: Speech Recognition](https://github.com/BarbaraJoebstl/JavaScript30/tree/master/20_SpeechRecognition)
 
