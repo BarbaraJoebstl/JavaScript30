@@ -19,5 +19,5 @@
 - [Day 18: Reduce](https://github.com/tschebee/JavaScript30/tree/master/18_Reduce)
 - [Day 19: Video](https://github.com/tschebee/JavaScript30/blob/master/19_UnrealWebcamFun)
 - [Day 20: Speech Recognition](https://github.com/BarbaraJoebstl/JavaScript30/tree/master/20_SpeechRecognition)
-- [Day 21: Geolocation](https://github.com/tschebee/JavaScript30/blob/master/21__Geolocation)
-
+- [Day 21: Geolocation](https://github.com/tschebee/JavaScript30/blob/master/21_Geolocation)
+- [Day 22: Follow Along Links](https://github.com/tschebee/JavaScript30/blob/master/22_FollowAlongLinks)
