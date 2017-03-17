@@ -21,3 +21,4 @@
 - [Day 20: Speech Recognition](https://github.com/BarbaraJoebstl/JavaScript30/tree/master/20_SpeechRecognition)
 - [Day 21: Geolocation](https://github.com/tschebee/JavaScript30/blob/master/21_Geolocation)
 - [Day 22: Follow Along Links](https://github.com/tschebee/JavaScript30/blob/master/22_FollowAlongLinks)
+- [Day 23: Speech Synthesis Uterance](https://github.com/tschebee/JavaScript30/blob/master/23_SpeechSynthesisUtterance)
