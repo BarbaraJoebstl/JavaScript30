@@ -22,3 +22,4 @@
 - [Day 21: Geolocation](https://github.com/tschebee/JavaScript30/blob/master/21_Geolocation)
 - [Day 22: Follow Along Links](https://github.com/tschebee/JavaScript30/blob/master/22_FollowAlongLinks)
 - [Day 23: Speech Synthesis Uterance](https://github.com/tschebee/JavaScript30/blob/master/23_SpeechSynthesisUtterance)
+- [Day 24: Sticky Nav](https://github.com/tschebee/JavaScript30/blob/master/24_StickyNav)
