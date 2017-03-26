@@ -1,5 +1,6 @@
-#JavaScript30
-###30 day vanilla js coding challenge with [video tutorials](https://JavaScript30.com) by [wesbos](https://www.wesbos.com)
+# JavaScript30
+
+### 30 day vanilla js coding challenge with [video tutorials](https://JavaScript30.com) by [wesbos](https://www.wesbos.com)
 - [Day 1: Drum Kit](https://github.com/tschebee/JavaScript30/tree/master/01_DrumKit)
 - [Day 2: Clock](https://github.com/tschebee/JavaScript30/tree/master/02_Clock)
 - [Day 3: Update CSS Variables with JS](https://github.com/tschebee/JavaScript30/blob/master/03_PlayingAround)
@@ -24,3 +25,8 @@
 - [Day 23: Speech Synthesis Uterance](https://github.com/tschebee/JavaScript30/blob/master/23_SpeechSynthesisUtterance)
 - [Day 24: Sticky Nav](https://github.com/tschebee/JavaScript30/blob/master/24_StickyNav)
 - [Day 25: Event Capture, Propagation, Bubbling and Once](https://github.com/tschebee/JavaScript30/blob/master/25_EventCaptureBubbling)
+- [Day 26: Follow Along Dropdown](https://github.com/tschebee/JavaScript30/blob/master/26_FollowAlongDropdown)
+- [Day 27: Click and Drag](https://github.com/tschebee/JavaScript30/blob/master/27_ClickAndDrag)
+- [Day 28: Video Speed Control](https://github.com/tschebee/JavaScript30/blob/master/28_VideoSpeedControl)
+- [Day 29: Countdown Timer](https://github.com/tschebee/JavaScript30/blob/master/29_CountdownTimer)
+- [Day 30: Whak a Mole Game](https://github.com/tschebee/JavaScript30/blob/master/30_WhakAMoleGame)
